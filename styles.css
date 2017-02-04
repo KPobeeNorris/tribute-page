@@ -1,1 +1,27 @@
 
+body {
+  background-color: #FEFBFF
+}
+
+#title {
+  color: #2C401D;
+  padding-bottom: 50px;
+}
+
+#triplet {
+  padding-bottom: 50px;
+}
+
+#novel-list {
+  color: #2C401D;
+  font-size: 16px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#poirot {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
